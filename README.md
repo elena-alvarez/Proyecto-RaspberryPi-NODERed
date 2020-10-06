@@ -9,4 +9,6 @@ Sensores Robot ZUMO: Poxímidad, Magnetómetro, Acelerómetro, Giróscopo, Tensi
 Por tanto, se trata de un sistema de control remoto y monitorización utilizando protocolos de internet y presentación web.
 
 
+ ![Screenshot](EsquemaGeneralsistema.png) 
+
 
