@@ -1,4 +1,4 @@
-# Proyecto-RaspberryPi-SistemasConProcesadoresIntegrados
+# Proyecto RaspberryPi NODE RED
 
 Sistema de control remoto del robot ZUMO, mediante el joystick del Sense HAT para Raspberry Pi. Este sistema de control permite indicar cuatro direcciones (derecha, izquierda, delante y atrás), parar y variar la velocidad entre un valor mínimo y un valor máximo. Monitorización web del estado de los sensores del robot ZUMO y de los sensores integrados en el Sense HAT.
 
